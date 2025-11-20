@@ -1,0 +1,13 @@
+# Ignorer les données volumineuses de Wazuh
+wazuh-indexer-data/
+wazuh_logs/
+wazuh_queue/
+wazuh_etc/
+wazuh-dashboard-config/
+wazuh-dashboard-custom/
+filebeat_etc/
+filebeat_var/
+
+# Ignorer les fichiers systèmes
+.DS_Store
+Thumbs.db
